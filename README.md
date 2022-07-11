@@ -6,6 +6,10 @@
 
 🔗Link github (chứa source code) để các bạn tham khảo: https://github.com/Thaivip00/swt-selenium
 
+🔗Link Downloads JDK : https://www.oracle.com/java/technologies/downloads/
+
+🔗Link cài đặt Intellij IDEA : https://www.jetbrains.com/idea/download/#section=windows
+
 🔥 Phần 1: Hướng dẫn cài đặt và sử dụng Selenium WebDriver : https://www.youtube.com/watch?v=f-1-V2xRPIM&t=0s
 
 🔥 Phần 2: Hướng dẫn cài đặt và sử dụng Selenium IDE - Extension giúp bạn auto recording : https://www.youtube.com/watch?v=O81wJ37mDlU&t=0s
