@@ -1,4 +1,4 @@
-### 🔥 Xin chào các bạn đến với bài thuyết trình về Selenium của nhóm mình.
+## 🔥 Xin chào các bạn đến với bài thuyết trình về Selenium của nhóm mình.
 
 ### <h2>▶ Dưới đây là link download mà mình đã đề cập đến trong video:</h2>
 
@@ -22,7 +22,7 @@
 
 ### <h2>▶ Các bạn có thể liên hệ với chúng mình qua:</h2>
 
-## 📢Facebook:
+### 📢Facebook:
 
 - Trần Phương Thái: https://www.facebook.com/thaiyeunguyet
 - Hoàng Nhã Thy: https://www.facebook.com/OrieSocuteee
