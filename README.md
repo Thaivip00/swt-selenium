@@ -2,13 +2,13 @@
 
 ### <h2>▶ Dưới đây là link download mà mình đã đề cập đến trong video:</h2>
 
-- 🔗 Link driver (chứa source code + tool cài đặt): https://drive.google.com/drive/folders/1C5srBIxtN09aIklQS27I9H9nwlzaRC2N?fbclid=IwAR0kjsIB-T2LCGCmrY-6kmuMdNLfwQ7dWrdNXqKYRNj8K9Ayx12GxyN2H3M
+- 🔗 Link driver (chứa source code + tool cài đặt): [Driver (source code + tool)](https://drive.google.com/drive/folders/1C5srBIxtN09aIklQS27I9H9nwlzaRC2N?fbclid=IwAR0kjsIB-T2LCGCmrY-6kmuMdNLfwQ7dWrdNXqKYRNj8K9Ayx12GxyN2H3M)
 
-- 🔗Link github (chứa source code) để các bạn tham khảo: https://github.com/Thaivip00/swt-selenium
+- 🔗Link github (chứa source code) để các bạn tham khảo: [Github (source code)](https://github.com/Thaivip00/swt-selenium)
 
-- 🔗Link Downloads JDK : https://www.oracle.com/java/technologies/downloads/
+- 🔗Link Downloads JDK : [Downloads JDK](https://www.oracle.com/java/technologies/downloads/)
 
-- 🔗Link cài đặt Intellij IDEA : https://www.jetbrains.com/idea/download/#section=windows
+- 🔗Link cài đặt IntelliJ IDEA : [Install IntalliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 
 </br>
 
