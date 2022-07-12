@@ -21,7 +21,7 @@
 </br>
 
 <h3>Slide:</h3>
-https://docs.google.com/presentation/d/1hWaF_INosbZNn7oZpWepab-_KTMZU79g/edit#slide=id.p1
+![Slide Selenium With Java](https://docs.google.com/presentation/d/1hWaF_INosbZNn7oZpWepab-_KTMZU79g/edit#slide=id.p1) (&lt;a&gt;)
 
 ### <h2>▶ Các bạn có thể liên hệ với chúng mình qua:</h2>
 
