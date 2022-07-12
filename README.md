@@ -32,7 +32,7 @@
 - [Trần Phương Thái](https://www.facebook.com/thaiyeunguyet)
 - [Hoàng Nhã Thy](https://www.facebook.com/OrieSocuteee)
 - [Hoàng Đình Thái](https://www.facebook.com/tuitenthaiii)
-- [Phan Quốc Thái]{https://www.facebook.com/thai.phan.5209000)
+- [Phan Quốc Thái](https://www.facebook.com/thai.phan.5209000)
 - [Lê Chí Cường](https://www.facebook.com/Lcc060798)
 
 </br>
