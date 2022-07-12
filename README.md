@@ -24,7 +24,7 @@
 
 ### 📢Facebook:
 
-- Trần Phương Thái: ![(https://www.facebook.com/thaiyeunguyet)] (&lt;a&gt;)
+- Trần Phương Thái: ![https://www.facebook.com/thaiyeunguyet] (&lt;a&gt;)
 - Hoàng Nhã Thy: https://www.facebook.com/OrieSocuteee
 - Hoàng Đình Thái: https://www.facebook.com/tuitenthaiii
 - Phan Quốc Thái: https://www.facebook.com/thai.phan.5209000
