@@ -12,9 +12,11 @@
 
 </br>
 
-### 🔥 Phần 1: Hướng dẫn cài đặt và sử dụng Selenium WebDriver : https://www.youtube.com/watch?v=f-1-V2xRPIM&t=0s
+## 🔥 Phần 1: Hướng dẫn cài đặt và sử dụng Selenium WebDriver : https://www.youtube.com/watch?v=f-1-V2xRPIM&t=0s
 
-### 🔥 Phần 2: Hướng dẫn cài đặt và sử dụng Selenium IDE - Extension giúp bạn auto recording : https://www.youtube.com/watch?v=O81wJ37mDlU&t=0s
+## 🔥 Phần 2: Hướng dẫn cài đặt và sử dụng Selenium IDE - Extension giúp bạn auto recording : https://www.youtube.com/watch?v=O81wJ37mDlU&t=0s
+
+## 💕 Presentation Clip: https://www.youtube.com/watch?v=ybsNU1OAki8&t=0s
 
 </br>
 
@@ -30,4 +32,4 @@
 
 </br>
 
-💕 Presentation Clip: https://www.youtube.com/watch?v=ybsNU1OAki8&t=0s
+
