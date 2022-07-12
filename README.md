@@ -20,14 +20,14 @@
 
 ### <h2>▶ Các bạn có thể liên hệ với chúng mình qua:</h2>
 
-## <h2>📢Facebook:</h2>
+## 📢Facebook:
 
-Trần Phương Thái: https://www.facebook.com/thaiyeunguyet
-Hoàng Nhã Thy: https://www.facebook.com/OrieSocuteee
-Hoàng Đình Thái: https://www.facebook.com/tuitenthaiii
-Phan Quốc Thái: https://www.facebook.com/thai.phan.5209000
-Lê Chí Cường: https://www.facebook.com/Lcc060798
+- Trần Phương Thái: https://www.facebook.com/thaiyeunguyet
+- Hoàng Nhã Thy: https://www.facebook.com/OrieSocuteee
+- Hoàng Đình Thái: https://www.facebook.com/tuitenthaiii
+- Phan Quốc Thái: https://www.facebook.com/thai.phan.5209000
+- Lê Chí Cường: https://www.facebook.com/Lcc060798
 
 
 
-<h2>💕 Presentation Clip: https://www.youtube.com/watch?v=ybsNU1OAki8&t=0s</h2>
+💕 Presentation Clip: https://www.youtube.com/watch?v=ybsNU1OAki8&t=0s
