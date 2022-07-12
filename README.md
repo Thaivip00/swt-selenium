@@ -28,10 +28,10 @@
 
 </br>
 
-## <h3>Slide:</h3>
+## Slide:
 - [Slide Selenium With Java](https://docs.google.com/presentation/d/1hWaF_INosbZNn7oZpWepab-_KTMZU79g/edit#slide=id.p1)
  
-## <h3>Guildline:</h3>
+## Guildline:
 - [Guildline](https://docs.google.com/document/d/1voJrwLpqJg1EFoBWJzFh85wyINPmgiHYZgAoCZgAIio/edit)
 
 
