@@ -13,8 +13,9 @@
 ### 🔥 Phần 1: Hướng dẫn cài đặt và sử dụng Selenium WebDriver : https://www.youtube.com/watch?v=f-1-V2xRPIM&t=0s
 
 ### 🔥 Phần 2: Hướng dẫn cài đặt và sử dụng Selenium IDE - Extension giúp bạn auto recording : https://www.youtube.com/watch?v=O81wJ37mDlU&t=0s
-<br/>
 
+<br/>
+---
 ### ▶ Các bạn có thể liên hệ với chúng mình qua:
 
 📢Facebook:
